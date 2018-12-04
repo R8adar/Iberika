@@ -98,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>COLOR white][B]SERIES PAPAYA[/B][/COLOR]</title>
+<title>[COLOR white][B]SERIES PAPAYA[/B][/COLOR]</title>
 <link>$doregex[makelist1]</link>
 
 
