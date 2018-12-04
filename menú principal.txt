@@ -1,0 +1,11 @@
+<item><title>          [B]            Iberika[/B]</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart>
+<externallink>https://pastebin.com/raw/DHzhfBd6</externallink></item><item><title>******Grupo t.me/IberiKa******</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>http://ignorame</externallink></item><item><title>[B] [I] [COLOR yellow]--> [COLOR white]Te damos nuestra bienvenida a IberiKa[/B] [/I] [/COLOR][/COLOR]</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>https://pastebin.com/raw/DHzhfBd6</externallink></item><item><title>[B] [I] [COLOR yellow]-->[COLOR white]Damos as boas vindas a IberiKa[/B] [/I] [/COLOR][/COLOR]</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>https://pastebin.com/raw/DHzhfBd6</externallink></item><item><title>[B] [I] [COLOR yellow]Actualizacion / Atualização [COLOR sky blue]27/11/2018[/B] [/I] [/COLOR][/COLOR]</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>https://pastebin.com/raw/DHzhfBd6</externallink></item><item><title>****************************************</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>http://ignorame</externallink></item><item><title>[I][COLOR yellow]Es necesario/Necessário instalar F4MTester[/COLOR][/I]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://ignorame</externallink>
+</item><item><title>****************************************</title><link>http://ignorame<link><thumbnail></thumbnail><fanart></fanart><externallink>http://ignorame</externallink></item>
+<item><title>[B][COLOR lime]Aquí para empezar / Aqui para começar[/COLOR][/B]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/DHzhGBd8</externallink>
+</item>

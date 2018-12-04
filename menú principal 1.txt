@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<item>
+<title>[COLOR white][B]Buscador de Películas GranTorrent [/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param3][/B][/UPPERCASE][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[imagen-post[\w\W\s]{0,8}href="(.*?)"[\w\W\s]{0,7}src="(.*?)"[\w\W\s]{0,400}bloque-inferior">\n(.*?)<]]></expres>
+<page>https://grantorrent.com/?s=$doregex[search]</page>   
+</regex>
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param3][/B][/UPPERCASE][/COLOR]  Calidad:[makelist.param2]  Tamaño:[makelist.param3]  </title>
+<link>plugin://plugin.video.quasar/play?uri=[makelist.param4]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[alt="(.*?)".*?\/td><td>(.*?)<[\w\W\s]{0,7}td>(.*?)<[\w\W\s]{0,25}href="(.*?torrent)"]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+<info>[B][COLOR skyblue]Peliculas de https://grantorrent.com en Castellano[/COLOR]</info>
+</item>
+
+<item>
+
+<item>
+<title>[B][COLOR white]Series[/B][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://ignorame</externallink>
+</item>
+<item>
+<title>[B][COLOR white]Programación de Tv España[/COLOR][/B]</title>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue][B][makelist.param1][/B][/COLOR][COLOR blue][B][makelist.param2] [makelist.param3][/B][/COLOR][COLOR yellow][makelist.param4] [makelist.param5][/COLOR]</title>
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+ </item>
+ 
+<item>
+<title>[B][COLOR white]Televisión España HD[/B][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://ignorame</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Televisión España SD[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param2] </title>
+<link>https:$doregex[get-id]|Referer=https://vergol.com/canales/live3/beinsport.php&amp;User-Agent=Mozilla/5.0</link>
+<thumbnail>https:[makelist2.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+)"*.title="(.*?)".*src="(.*?)"]]></expres>
+<page>https://verliga1.net/</page>
+</regex>
+ 
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<rawpost>password=12345</rawpost>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<page>https:$doregex[page2]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<regex>
+<name>page2</name>
+<expres>src="([^"]+)</expres>
+<page>https://verliga1.net$doregex[page3]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<regex>
+<name>page3</name>
+<expres>450" src="([^"]+)</expres>
+<page>[makelist2.param1]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<page>http://verliga.net/</page>
+<agent>Mozilla/5.0</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR white]Televisión Portugal (off)[/B][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://ignorame</externallink>
+</item>
+
+<item>
+<title>[COLOR white][B]Documentales[/B][/COLOR]</title>
+ <link>$doregex[makelist3]</link>
+ 
+br([^"<]+).*?a href="([^"<]+).*?>([^"<]+).*?
+  <regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR blue]-[/COLOR][COLOR blue][makelist3.param3][/COLOR]</title>
+<link>$doregex[makelist4]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres>br([^"<]+).*?a href="([^"<]+).*?>([^"<]+).*?</expres>
+<page>https://www.documentales-online.com/categorias/</page>
+</regex>
+<regex>
+<name>makelist4</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR yellow][makelist4.param1]-[/COLOR][COLOR white] pagina [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres>pagina "([^"]+)".*?</expres>
+<page>https://pastebin.com/raw/uaBq2Ucm</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR yellow][makelist2.param3]-[/COLOR]</title>
+<link>$doregex[makelist1]</link>
+<thumbnail>[makelist2.param13]</thumbnail>
+<fanart>[makelist2.param13]</fanart>
+]]></listrepeat>
+<expres>h2>([<^"]+).*?a href="([^"]+).*?>([^<"]+).*?([^"]+).*?([^"]+).*?([^"]+).*?([^"]+).*?([^"]+).*?([^"]+).*?([^<"]+).*?([^<"]+).*?([^<"]+).*?([^<"]+).*?</expres>
+<page>https://www.documentales-online.com/categorias/[makelist3.param3]/page/[makelist4.param1]</page>
+</regex>
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR lime][makelist2.param3][/COLOR]--[COLOR red]ver aqui  [/COLOR]</title>
+<urlsolve>[makelist1.param2]</urlsolve>
+<thumbnail>[makelist2.param13]</thumbnail>
+<fanart>[makelist2.param13]</fanart>
+]]></listrepeat>
+<expres>height="([^"<]+).*?src="([^"<]+).*?</expres>
+<page>[makelist2.param2]</page>
+</regex>
+</item>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]Televisión 24/7[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>https://mp4.vaughnsoft.net/live?app=live&amp;port=2935&amp;stream=live_[makelist.param1]|Referer=https://vaughnlive.tv/</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white][B]+ test[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/7kiaDsEh</externallink>
+</item>
