@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
 <item>
-<title>[COLOR white][B]Buscador de Películas GranTorrent [/B] [/COLOR]</title>
+<title>[COLOR white][B]Buscador de Peliculas GranTorrent [/B] [/COLOR]</title>
 <link>$doregex[makelist2]</link>
  
  
