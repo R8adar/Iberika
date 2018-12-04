@@ -57,8 +57,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[B][COLOR white]Series[/B][/COLOR]</title>
 <link>http://ignorame<link><thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://ignorame</externallink>
+<externallink>https://raw.githubusercontent.com/iberikakodi/Iberika/master/Men%C3%BA%20series.txt</externallink>
 </item>
+
 <item>
 <title>[B][COLOR white]Programación de Tv España[/COLOR][/B]</title>
  <link>$doregex[makelist]</link>
@@ -81,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[B][COLOR white]Televisión España HD[/B][/COLOR]</title>
 <link>http://ignorame<link><thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://ignorame</externallink>
+<externallink>https://pastebin.com/raw/e6a0Ph4T</externallink>
 </item>
 
 <item>
