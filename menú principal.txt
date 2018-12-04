@@ -7,5 +7,5 @@
 <item><title>[B][COLOR lime]Aquí para empezar / Aqui para começar[/COLOR][/B]</title>
 <link>http://ignorame<link><thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/iberikakodi/Iberika/master/menú%20principal%201.txt</externallink>
+<externallink>https://pastebin.com/raw/DGCacV6E</externallink>
 </item>
