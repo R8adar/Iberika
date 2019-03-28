@@ -1,33 +1,1551 @@
-<?xml version="1.0" encoding="UTF-8"?>
- 
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon: La película[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/cesrbkrkrpnnlpkd/</urlsolve>
+<info>Un grupo de científicos ha estado trabajando en un laboratorio secreto, tratando de crear el Pokémon más fuerte que exista. Para ello, han tomado ADN de una muestra de cabello fosilizada del legendario Pokémon Mew, utilizando el código genético de la evasiva criatura para crear a Mewtwo mediante la ingeniería biológica. Ignorantes del poder de su creación, los científicos y sus laboratorios son destruídos por Mewtwo cuando se despierta. Airado con sus creadores, Mewtwo jura vengarse del mundo... </info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/4/1/1/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/4/1/1/6-big.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon ¡Te elijo a ti![/COLOR]</title>
+<urlsolve>https://streamango.com/embed/mddooldnboqcdolf/</urlsolve>
+<info>Película número 20 de la saga animada, dirigida por Kuhiniko, que vuelve a los orígenes del universo Pokémon, donde Ash Ketchum, un niño de diez años y su inseparable amigo Pikachu irán en busca de retos que lleven al entrenador a ser el mejor del mundo. Su objetivo: la liga de Kanto, pero primero han de superar los ya conocidos gimnasios. </info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/7/2/8/9/9-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/7/2/8/9/9-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 2: El poder de uno[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/llabkcsnpflfsreo/</urlsolve>
+<info>
+Segunda entrega del famoso videojuego japonés. Ash Ketchum, Pokémon y sus amigos llegan a la isla de Shamouti, y allí se transformarán en los protagonistas de una leyenda reencarnada; el equilibrio de la naturaleza representado por las tres poderosas aves Moltres (que domina el fuego), Zapdos (que representa los relámpagos) y Articuno (que conserva el hielo). Cuando Moltres resulta secuestrada según la profecía sólo un humano podrá salvarla.
+</info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/5/8/5/0-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/5/8/5/0-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] La película Pokémon: Hoopa y un duelo[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kedrqbkntdmqlocc/</urlsolve>
+<info>Ash, Pikachu y sus amigos se encuentran en un hotel, cuando de repente aparecen unos anillos dorados que los transporta a Ciudad Desert, donde se encuentran con Hoopa, el cual que tiene la habilidad de hacerse con todo lo que se desee (incluyendo a personas y Pokémon) con ayuda de sus anillos mágicos... </info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/6/2/2/2/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/6/2/2/2/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 03: El hechizo de los unown[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/rttookoarmocmlkf/</urlsolve>
+<info>El profesor Spencer Hale, un concienzudo investigador de los Pokémon, ha estado trabajando muy duro para conocer los secretos de un misterioso Pokémon llamado los Unown. Los Unown aparecen como 26 entidades individuales con las formas de letras del alfabeto. Tienen la capacidad de leer los sueños, pensamientos y emociones humanos y hacerlos realidad, pero un tipo especial de realidad. Mientras está trabajando, el profesor es repentinamente arrastrado a otro mundo, del mismo modo en que desapareció su esposa dos años antes </info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/4/7/4/2-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/4/7/4/2-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 17: Diancie y la crisálida[/COLOR]</title>
+<urlsolve>https://openload.co/f/kkKaAkcVJag</urlsolve>
+<info>Diancie y la crisálida de la destrucción (en España) Desconocido aún (en Hispanoamérica) (Diancie and the Cocoon of Destruction en inglés, ??????????? La crisálida de la destrucción y Diancie en japonés) es la decimoséptima película de Pokémon y la primera de la serie XY. Esta película es protagonizada por los Pokémon legendarios Xerneas, Yveltal y Diancie, y por algunas megaevoluciones. Se estrenó el 19 de julio del 2014 en los cines de Japón. En Estados Unidos se emitió el día 8 de noviembre de 2014 por Cartoon Network. El corto de Pikachu que acompaña esta película es el PK20. </info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/5/9/5/7/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/5/9/5/7/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 04: Celebi, la voz del bosque[/COLOR]</title>
+<urlsolve>https://openload.co/f/xOQzjn-r0Pk</urlsolve>
+<info>Celebi debe escapar de un malvado cazador de Pokemon del pasado, para ello debe utilizar la poca energía que le queda y viajar en el tiempo hasta nuestros días. Celebi, Ash, Pikachu y el resto de la banda, tendrán que enfrentarse con un enemigo mucho más fuerte que el cazador del que huían. El arma de este nuevo enemigo es una "Pokebola" que transforma a los Pokémon que captura en demonios y otras terribles criaturas. Celebi es capturado y el destino de todo el bosque queda bajo la amenaza de los cazadores. </info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/5/8/5/1-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/5/8/5/1-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 05: Héroes Pokémon[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/rlfqlafbnmnqdpem/</urlsolve>
+<info>También conocida como "Héroes Pokemon", cuenta la historia Latias y Latios, dos pokemon legendarios, los cuales se encargan de cuidar de "Altomare" una ciudad rodeada de agua, Ash Ketchum, accidentalmente se encuentra con una niña, la cual no es una persona sino que latias, aqui es donde comienza la averntura de Ash, y sus nueva amiga Latias </info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/1/7/0/0/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/1/7/0/0/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon Mewtwo: El regreso[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/adrrotdfkbbcsfrk/</urlsolve>
+<info>En un área remota de la región de Johto hay un lugar con aguas mágicas, montañas prohibidas... y un extraordinario secreto Mewtow y sus amigos los superclones Pokémon han encontrado finalmente una isla donde poder vivir, lejos de los ojos curiosos y los severos castigos de los humanos. Mewtow había borrado la memoria de todos los seres su batalla con Mew, los clones e incluso su propia existencia. Ahora, la líder del Team Rocket ha descubierto el escondite secreto de Mewtow. Por suerte, también se encuentran allí Ash, Pikachu y sus amigos. Pronto Giovanni se enfrentará a Mewtow con un terrible desafío: o se somete a su poder o sacrificará a los super-clones. Una batalla espectacular está a punto de comenzar, pero los increíbles efectos de su isla secreta entran en juego, dejando el destino de Mewtow en las manos de Ash. Secuela de "Pokémon: La Película" lanzada directamente a vídeo y DVD.
+</info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/1/8/3/0/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/1/8/3/0/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 08: Lucario y el misterio de Mew[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/lstrdeerpkqqamme/</urlsolve>
+<info>Ash y compañía llegan al pueblo de Rohta, donde la leyenda del héroe guiado por las ondas ha sido transmitida de generación en generación. Un festival se está celebrando en el castillo Oldoran en honor al Héroe Aaron, quien hace siglos detuvo una terrible guerra entre los "Rojos" y los "Verdes" (dos ejércitos Pokemon) usando el poder del árbol del Genesis. Entre los festejos, hay una especie de torneo Pokemon para decidir quien será el Héroe Guiado por las ondas del año, y Ash lo gana. Sin embargo, la alegría es interrumpida cuando Mew aparece de la nada y rapta a Pikachu. </info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/1/7/0/8/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/1/7/0/8/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 10: El desafío de Darkrai[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kkdfqrlresrreslt/</urlsolve>
+<info>En la infinita y eterna grieta del espacio y tiempo, dos entidades que jamás debieron encontrarse, chocan en un combate de grandes proporciones. Una de ella es la deidad del tiempo Dialga quien logra herir a su contraparte Palkia, la deidad del espacio. Mientras tanto, en otro lugar un hombre lee el diario de un famoso arquitecto llamado Godey. En este, se predice lo que podría ser la destrucción del mundo debido a fuerzas poderosas que colisionan unas con otras... </info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/1/3/0/4/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/1/3/0/4/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 12: Arceus y la joya de la vida[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/mfqtftnqlqqcnosb/</urlsolve>
+<info>Los protagonistas conocen a unos muchachos que resultan ser los cuidadores de unas ruinas y les darán información importante. Deben viajar al pasado para hablar con el poseedor de la joya de la vida. Duodécima película en la historia de Pokémon y que supone el cierre de la trilogía iniciada con "El desafío de Darkrai" y "Giratina y el Defensor de los Cielos". </info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/1/9/5/4/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/1/9/5/4/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 16: Genesect y el despertar[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ecteqaonfddtpsol/</urlsolve>
+<info>Cinco Genesect han invadido la gran ciudad y suponen una amenaza para el suministro de electricidad, lo cual atrae la atención del Pokémon legendario Mewtwo, a pesar de desconocerse sus intenciones. Ash, Pikachu y sus amigos deben acudir al rescate cuando el poderoso líder de los Genesect, un Genesect rojo, se enfrenta a Mewtwo. </info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/6/0/4/0/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/6/0/4/0/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon: Volcanion y la maravilla mecánica[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/clobtasdnqscnqmq/</urlsolve>
+<info>En esta aventura de Pokémon, una fuerza misteriosa ata a Ash al Pokémon Mythical Volcanion cuando cae del cielo. Volcanion no puede escapar, y Ash es arrastrado a medida que continúa en su misión. Llegan a una ciudad de engranajes y engranajes, donde un ministro corrupto ha robado la última invención: el Pokémon Artificial Magearna, creado hace 500 años. El ministro planea usar el poder misterioso de Magearna para tomar el control del reino mecánico. ¿Puede Ash y Volcanion trabajar juntos para rescatar a Magearna? ¡Una de las mayores batallas en la historia de Pokémon está a punto de desplegarse! </info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/6/6/0/1/8-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/6/6/0/1/8-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 09: Pokémon Ranger y el Templo del Mar[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/mpbnbdlkfalaatnt/</urlsolve>
+<info>
+Pokémon Ranger y el Templo del Mar es una fantástica aventura en la que se verán envueltos Ash y Pikachu cuando conozcan a Lizabeth y a Jackie: un Pokemon Ranger cuya misión es proteger el huevo de Manaphy para evitar que caiga en las manos de un malvado pirata empeñado en hacerse con él y apoderarse de los secretos que alberga el Templo del Mar. Su objetivo: dominar el mundo. ¿Lograrán nuestros amigos desbaratar sus planes y llevar a término la misión secreta de Jackie?
+</info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/8/5/3/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/8/5/3/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 13: Zoroark - El maestro de las ilusiones[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/peplenoefespnelb/</urlsolve>
+<info>
+Celebi observa a Raikou, Entei, y Suicune luchando en el futuro y para prevenirlo, Celebi viaja a través del pasado. Mientras tanto, Ash ve a un campeón fantasma que es idéntico a él. (FILMAFFINITY)
+</info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/2/5/2/5/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/2/5/2/5/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 11: Giratina y el defensor de los cielos[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/snermrrsocsbcfqd/</urlsolve>
+<info>
+El pokémon Shaymin se encuentra por accidente en medio de la batalla entre dos pokémoN muy poderosos, Dialga y Giratina, y sin comerlo ni beberlo termina metido en un misterioso universo paralelo. Un gas venenoso se expande por todos lados, y Shaymin hace su ataque Seed Flare para limpiar el gas, lo que por suerte para él le hace volver al mundo real. Ash y sus amigos se encuentran a Shaymin y rápidamente se hacen amigos, sobre todo al descubrir que tienen en común su interés por la naturaleza. Sin embargo Shaymon no va a estar tranquilo, por que Giratina quiere venganza. La aparición de un temible villano y del pokémon legendario Regigigas terminan por redondear una aventura llena de misterios... Película número 11 de la saga Pokémon, estrenada en Japón en verano de 2008.
+</info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/2/4/0/0/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/2/4/0/0/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 06: Jirachi y los deseos[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ernccemdfsbkebbm/</urlsolve>
+<info>
+Sólo cada mil años, cuando el Cometa Milenario es visible en el cielo nocturno, provoca que Jirachi despierte de su trance. Y cuando él despierta en un círculo de tiempo, va a tener muchos nuevos amigos de su lado: Ash, Pikachu y Max. Pero pronto, deben rescatar a Jirachi de las garras de un malvado mago y un formado científico llamado Butler que quiere tomar la increíble energía de Jirachi para devolver a la vida uno de los más poderosos y legendarios Pokémon. Sexta película basada en la franquicia Pokémon.
+</info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/1/7/9/3/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/1/7/9/3/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 07: Destino Deoxys[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/aeooonmembnnmarl/</urlsolve>
+<info>
+Un meteorito del espacio exterior se estrellará en la Tierra, en una gran zona de hielo. El Professor Lund y sus compañeros (incluyendo su hijo, Tory) saben que deben observar y estudiar los Pokémon en las zonas de hielo cuando el catastrófico meteoro se estrelle finalmente. De este desastre emerge un nuevo Pokémon, Deoxys. Pero, apenas hace su aparición, entra en batalla con otro Pokémon, Rayquaza, y el Professor Lund y Tory quedan atrapados en esta batalla climática entre estos dos titanes. Cuatro años después, Ash, Pikachu, y sus amigos llegan a la moderna ciudad de Larousse, listos para librar batallas en la famosa Torre de Batalla de la ciudad. Allí se encuentran con Tory, que se encuentra con todavía con miedo por su encuentro Pokémon anterior, y se mantiene apartado de ellos. Ahora, Ash y compañía tratarán de ayudar a Tory a perder su miedo a los Pokémon, y luego Deoxys reaparecerá... Séptima película basada en la saga Pokémon.
+</info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/1/7/0/8/4-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/1/7/0/8/4-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon Blanco: Victini y Zekrom[/COLOR]</title>
+<urlsolve>https://openload.co/f/AnsmaRXnOm8</urlsolve>
+<info>
+Un héroe debe elegir: ¿el poder de los ideales... o el valor de la verdad? Cuando Ash y sus amigos toman parte en un torneo en el Pueblo Eindoak, encuentran al Pokémon singular Victini, que acabará por convertirse en su nuevo amigo. Sin embargo, ¡el desastre no tarda en llegar cuando Damon, un desacertado trotamundos, se apodera de Victini, al que pretende utilizar para sus propios fifi nes! ¿Podrá Ash demostrar su madera de héroe y conseguir la ayuda del legendario Reshiram (o de Zekrom) para rescatar a Victini y salvar al Pueblo Eindoak? Dos leyendas... ¡y dos versiones de la historia! Conoce ambas en las películas Negro: Victini y Reshiram y Blanco: Victini y Zekrom. ¡El doble de aventuras Pokémon!
+</info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/4/1/3/7/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/4/1/3/7/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon 15: Kyurem contra el Espadachín Místico[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kssaefbdofsoepsk/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/6/0/4/0/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/6/0/4/0/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon Negro 14: Victini y Reshiram[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/mkocepqtqbaabqta/</urlsolve>
+<info>
+Un héroe debe elegir: ¿el poder de los ideales... o el valor de la verdad? Cuando Ash y sus amigos toman parte en un torneo en el Pueblo Eindoak, encuentran al Pokémon singular Victini, que acabará por convertirse en su nuevo amigo. Sin embargo, ¡el desastre no tarda en llegar cuando Damon, un desacertado trotamundos, se apodera de Victini, al que pretende utilizar para sus propios fifi nes! ¿Podrá Ash demostrar su madera de héroe y conseguir la ayuda del legendario Reshiram (o de Zekrom) para rescatar a Victini y salvar al Pueblo Eindoak? Dos leyendas... ¡y dos versiones de la historia! Conoce ambas en las películas Negro: Victini y Reshiram y Blanco: Victini y Zekrom. ¡El doble de aventuras Pokémon!
+</info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/0/7/3/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/6/0/7/3/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon: El poder de todos[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kbdslkbedablmcrb/</urlsolve>
+<info> La película Pokémon El poder de todos cuenta la historia de Ash y Pikachu en su viaje a una pequeña ciudad al lado del mar repleta de diversos personajes, incluidos una joven atleta, un mentiroso compulsivo, un investigador reservado, una anciana arisca y una pequeña con un gran secreto. Cada año, sus habitantes se reúnen para celebrar al Pokémon legendario Lugia, que hace que sople el viento que salvó la ciudad de la destrucción hace muchos años. El festival es un momento de celebración, con una carrera de captura de Pokémon y una llama ceremonial que arde vivamente para invocar a Lugia. Sin embargo, cuando una serie de incidentes amenazan no solo el festival, sino también a todas las personas y los Pokémon que viven en la ciudad, Ash y Pikachu no podrán ellos solos salvarlos a todos. ¿Podrán todos ellos dejar a un lado sus diferencias y trabajar juntos para rescatar su hogar? ¿O acabará todo siendo destruido?
+</info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/7/8/7/2/0-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/7/8/7/2/0-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon: Generaciones[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/dbrqbcbknestrpsl/</urlsolve>
+<info>
+Serie Online. 18 episodios. Pokémon, Generaciones, pasa por cada una de las generaciones de la serie principal de videojuegos para mostrarnos desde otro punto de vista algunos de sus momentos clave. Desde los humildes orígenes de la región de Kanto hasta el esplendor de la región de Kalos.
+</info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/6/8/1/5/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/6/8/1/5/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon: El maestro espejismo[/COLOR]</title>
+<urlsolve>https://www.dailymotion.com/video/x2z3acc</urlsolve>
+<info>
+Ash, May/Aura, Max y Brock son invitados por el Profesor Johns a su castillo para ver su nuevo sistema de batalla. Al llegar Ash, May/Aura, Max y Brock se encuentran al Profesor Oak, el cual vino en cuanto supo que el Profesor Johns había terminado su investigación, y a Misty que fue invitada como Ash. Al entrar al castillo ven unas pequeñas cúpulas negras en el suelo. Entonces aparece el Profesor Johns, quien les dice que les va a mostrar su sistema de combate Espejismo. Especial de la serie Pokémon creado para conmemorar el décimo aniversario de la saga.
+</info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/6/0/7/3/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/6/0/7/3/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Pokémon Mewtwo: Prólogo: El despertar de Mewtwo[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/seetspnmsdpeseft/</urlsolve>
+<info>
+Especial para televisión que narra la evolución de Mewtwo, como precuela de "ExtremeSpeed Genesect".
+</info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/6/0/7/3/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/6/0/7/3/9-medium.jpg?v=0</fanart>
 </item>
 <item>
-<title>[B] [COLOR yellow]--> [COLOR white]Televison Nacional[/B][/COLOR][/COLOR]</title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://ibericakodi.blogspot.com/p/tdt.html</externallink>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Digimon: La película[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/qfqomsenfplklbnc/</urlsolve>
+<info>
+Originalmente cuatro OVAs distribuidas en Japón, esta película es fruto de una fusión producida por Fox Kids de las películas originales, que duraban 40 minutos. Se utilizo una voz en off para unir las historias, y se eliminaron numerosas escenas para acortar la duración de las historias. La primera historia se centra en Tai y Kari Kamiya. Muestra su primer encuentro con un Digimon y lo que pasó con los niños elegidos. La segunda historia transcurre tras los sucesos de la serie original. Diaboromon es un malvado Digimon que está a punto de alcanzar su evolución máxima, alimentándose de los datos que circulan por las redes digitales de telecomunicaciones. La tercera historia esta representada con el estilo de dibujo de la secuela de Digimon, Digimon 02 y originalmente eran dos peliculas. Transcurre tras los sucesos de Digimon 02, y trata sobre un viaje de Kari Kamiya y Takeru Takaishi a EEUU, donde deberán averiguar la verdad acerca de un digimon que les ataca.
+</info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/1/0/4/9/2-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/1/0/4/9/2-medium.jpg?v=0</fanart>
 </item>
+
 <item>
-<title>[B] [COLOR yellow]--> [COLOR white]Deportes[/B][/COLOR][/COLOR]</title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://pastebin.com/raw/SBJKxAqu</externallink>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Enredados otra vez[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/gntgvz6xu3pt/2017.3nr5d0tr4b3z.mHD720p.mkv.html</urlsolve>
+<info>
+¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!
+</info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/7/1/4/2/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/7/1/4/2/9-medium.jpg?v=0</fanart>
 </item>
+
 <item>
-<title>[B] [COLOR yellow]--> [COLOR white]Entretenimiento[/B][/COLOR][/COLOR]</title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://ibericakodi.blogspot.com/p/esp-entre.html</externallink>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] The Princess and the Dragon[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/bsqcpfkldfbrokll/</urlsolve>
+<info>
+On her 7th birthday, Princess Barbara discovers a magical book that transports her to Wonderland - an enchanted place filled with dragons and fantastic creatures.
+</info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/8/0/3/3/3-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/8/0/3/3/3-medium.jpg?v=0</fanart>
 </item>
+
 <item>
-<title>[B] [COLOR yellow]--> [COLOR white]Dibujos Animados[/B][/COLOR][/COLOR]</title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://pastebin.com/raw/3TcNN0v0</externallink>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Leo Da Vinci: Misión Mona Lisa[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/qfbqnspkmeafbbkd/</urlsolve>
+<info>
+Leonardo Da Vinci decide ayudar a Gioconda, su mejor amiga, quien tiene problemas económicos. Al joven genio se le ocurre una idea que podría solucionar todas las inquietudes de su amiga: encontrar un barco pirata que se hundió hace años en la Isla de Montecristo y recuperar el gran tesoro que allí se guardaba.
+</info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/7/8/3/3/3-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/7/8/3/3/3-medium.jpg?v=0</fanart>
 </item>
+
 <item>
-<title>[B] [COLOR yellow]--> [COLOR white]Mas Canales[/B][/COLOR][/COLOR]</title>
-<link>http://ignorame<link><thumbnail></thumbnail>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Se armó el belén[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/acbeceqdckdcepml/</urlsolve>
+<info>
+Bo es un burrito pequeño, pero valiente, que anhela una vida más allá de su rutina diaria en el molino del pueblo. Un día reúne el coraje necesario para cumplir la aventura de sus sueños. En su viaje conocerá a Ruth, una adorable oveja que ha perdido su rebaño, y a Dave, una paloma con grandes aspiraciones. Durante su camino, en el que siguen una Estrella muy especial, encontrarán además a tres camellos y a otros excéntricos animales. Todos ellos se convertirán en los héroes no reconocidos de la primera Navidad.
+</info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/2/8/5/8-medium.jpg?v=2</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/6/2/8/5/8-medium.jpg?v=2</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Spider-Man: Un Nuevo Universo[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/acaoaoslasefmkso/</urlsolve>
+<info>
+En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el "Super Colisionador" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse
+</info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/6/6/0/5/9-medium.jpg?v=11</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/6/6/0/5/9-medium.jpg?v=11</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Zombillénium[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/pkrqfdsfatpolcao/</urlsolve>
+<info>
+Nadie lo sabe pero Zombillenium es un parque de atracciones habitado por auténticos monstruos. Para evitar que Héctor, un humano, revele la auténtica identidad de sus empleados, el Director Vampiro del parque se ve obligado a contratarle. Para volver a ver a su hija, Héctor hará todo lo posible por escapar de sus colegas Zombis, Hombres-Lobo y Vampiros… ¿Se convertirá este padre desesperado en la principal atracción de Zombillenium?
+</info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/7/3/5/4/7-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/7/3/5/4/7-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Los Increíbles 2[/COLOR]</title>
+<urlsolve>https://openload.co/f/4rdGpea0Zuk</urlsolve>
+<info>
+Helen tiene que liderar una campaña para que los superhéroes regresen, mientras Bob vive su vida "normal" con Violet, Dash y el bebé Jack-Jack —cuyos superpoderes descubriremos—. Su misión se va a pique cuando aparece un nuevo villano con un brillante plan que lo amenaza todo. Pero los Parr no se amedrentarán y menos teniendo a Frozone de su parte.
+</info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/6/5/4/1/9-medium.jpg?v=4</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/6/5/4/1/9-medium.jpg?v=4</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Ralph rompe Internet[/COLOR]</title>
+<urlsolve>https://openload.co/f/lokpKCUPRjM</urlsolve>
+<info>
+Ralph sale de los recreativos y... ¡rompe Internet! ¿Qué podría salir mal? La secuela de "Rompe Ralph" (2012) tendrá lugar en el presente, seis años después de los acontecimientos de la primera película. En ella volveremos a ver a Ralph, el malo del videojuego que quiere ser un héroe, además de otros personajes ya conocidos, como Vanellope von Schweetz, la chica "error de programación" con un imparable espíritu ganador. La historia se centrará en las aventuras de Ralph y sus compañeros en el mundo de Internet.
+</info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/7/3/9/8-medium.jpg?v=9</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/6/7/3/9/8-medium.jpg?v=9</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Operación cacahuete 2. Misión: Salvar el parque[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/tdlnloasntsrdlfq/</urlsolve>
+<info>
+Continuación de Operación cacahuete en la que conoceremos las nuevas aventuras de la malhumorada ardilla Surly junto a su fiel compinche, la positiva rata Buddy. En esta ocasión, los amigos tratarán de acabar con los planes del alcalde de Oakton City, que pretende demoler su hogar, el Parque Liberty, para así poder construir un parque de atracciones en la zona.
+</info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/7/0/4/1/5-medium.jpg?v=2</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/7/0/4/1/5-medium.jpg?v=2</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Robot Chicken: The Walking Dead - Mira quién camina[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kpcdrnrerbcdkcdn/</urlsolve>
+<info>
+Seth Green y Matthew Senreich presentan la divertida sátira inspirada en Walking Dead en este especial con la animada animación stop-motion de Adult Swim's "Robot Chicken".
+</info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/7/4/7/7/5-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/7/4/7/7/5-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Cars[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/tdbakopppnadfkfa/</urlsolve>
+<info>El aspirante a campeón de carreras Rayo McQueen está sobre la vía rápida al éxito, la fama y todo lo que él había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.
+</info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/7/3/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/7/3/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Cars 2[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/rckkfrmasmfmnnfs/</urlsolve>
+<info>Rayo McQueen y la adorable grúa Mate viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera escala es Tokio, Japón, donde Mate tendrá que convertirse en un espía secreto al verse envuelto sin saberlo en un caso de espionaje internacional, que le llevará a París y a Londres. Por si fuera poco, también vivirán una aventura de proporciones épicas al viajar a Porto Corsa, Italia, para disputar el primer Campeonato Mundial. La pareja tendrá que perderse las especialidades de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate tiene que dar un rodeo en su misión de espionaje, mientras McQueen compite contra los mejores del mundo.
+</info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/2/4/7/8/0-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/2/4/7/8/0-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Cars 3[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/kotstsbmfrtcclpc/</urlsolve>
+<info>Rayo McQueen sigue siendo el mejor coche de carreras del mundo, pero ahora que es uno de los más veteranos del circuito, debe demostrar a todo el mundo que aún puede ganar una gran carrera y que no necesita jubilarse. En esta ocasión, el famoso bólido de carreras tendrá que enfrentarse a una nueva generación de corredores más jóvenes, potentes y veloces, que amenaza con cambiar el deporte de su vida. Entre ellos está el competitivo y revolucionario Jackson Storm, que no se lo pondrá nada fácil.
+</info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/6/5/4/1/7-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/6/5/4/1/7-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Monstruos University[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ksdenntrbnskdptl/</urlsolve>
+<info>Desde que era pequeño, Mike Wazowski ha soñado con ser asustador y sabe que los mejores asustadores estudian en Monstruos University (MU). Pero durante su primer semestre en MU, los planes de Mike se desmoronan cuando se cruza con el listillo de James P. Sullivan, un asustador nato. El descontrolado espíritu competitivo de la pareja hace que los dos sean expulsados del programa de asustadores de la Universidad. Entonces se dan cuenta de que si quieren cumplir sus sueños, tienen que trabajar en equipo junto con un grupo de monstruos marginados.
+</info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/3/0/5/8/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/3/0/5/8/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Monstruos, S.A.[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/nffbftffpnrqbcnd/</urlsolve>
+<info>Monstruos, S.A. es la mayor empresa de miedo del mundo de los monstruos y James P. Sullivan es uno de sus mejores Asustadores. Sullivan es un imponente personaje recubierto de piel azul con lunares de color violeta que luce dos cuernos, y al que sus amigos llaman Sulley. Mike Wazowski, su Ayudante Asustador, además de su mejor amigo y compañero de habitación, es un monstruo verde, testarudo, tuerto y muy divertido. Asustar a los niños no es un trabajo tan fácil ya que los monstruos creen que son altamente tóxicos y no pueden entrar en contacto con ellos de ninguna manera. El ecléctico reparto también incluye al presidente y consejero delegado de la empresa, un monstruo en forma de cangrejo llamado Henry J. Waternoose, a la recepcionista Celia, una adorable monstrua con cabeza de serpiente, y al sarcástico camaleón llamado Randall Boggs, que quiere arrebatar el título de Mejor Asustador a Sulley.
+</info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/4/4/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/4/4/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Toy Story[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/olleqberpbdnffck/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/6/8/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/6/8/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Toy Story 2[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/mqmpscpaedddmqeo/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/6/8/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/6/8/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Toy Story 3[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/apfctpneflpddpeo/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/4/0/8/5-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/4/0/8/5-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Stand by Me, Doraemon[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/rremakkftpcdaekm/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/5/7/3/1/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/5/7/3/1/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y el reino de Kibo[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/665cu8q0wz0h/Doraemon_Y_El_Reino_Perruno_M720p.Castellano.mp4.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/4/8/3/5/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/4/8/3/5/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y los dioses del viento[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/tqoadtbqsrnpposp/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/4/3/1/5/3-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/4/3/1/5/3-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y el Imperio Maya[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/grmwax18869v/Doraemon_y_el_imperio_maya__360p_25fps_H264-128kbit_AAC_.mp4.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/1/5/7/6/4-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/1/5/7/6/4-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y Nobita Holmes en el misterioso museo del futuro[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/qvur6vrxh4ld/Doraemon_y_Nobita_Holmes_en_el_misterioso_museo_del_futuro__2013___DVDrip___Castellano_.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/5/6/4/8/2-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/5/6/4/8/2-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y los piratas de los mares del sur[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/rpnefbfaeknrqmcc/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/4/7/7/6/3-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/4/7/7/6/3-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y el secreto del laberinto[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/cqmqdfeceltpsaoc/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/4/3/7/8/4-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/4/3/7/8/4-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y las mil y una aventuras[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/frmtbdmrblnppdbl/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/5/4/0/1/1-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/5/4/0/1/1-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon y el misterio de las nubes[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ocdmedmcprlcskea/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/6/1/2/2/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/6/1/2/2/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Doraemon: La leyenda de las sirenas[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/ouqe44dt4owl/Doraemon___La_Leyenda_De_Las_Sirenas___dvdrip__spanish__www.lokotorrents.com_.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/4/0/7/7/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/4/0/7/7/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] LA LEGO PELÍCULA 2[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/dmqrndrborpcbpqk/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/6/2/8/5/5-medium.jpg?v=4</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/6/2/8/5/5-medium.jpg?v=4</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Patoaventuras: La película - El tesoro de la lámpara perdida[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/lapalllnnsfrdbaq/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn5.megadede.com/cdn/media/peli/4/6/1/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn5.megadede.com/cdn/media/peli/4/6/1/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Next Gen[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/sflddrpradkbtndc/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/7/9/7/7/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/7/9/7/7/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Barbie: Aventura en el Espacio[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/orkkbatosfnrdktl/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn9.megadede.com/cdn/media/peli/6/9/2/4/2-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn9.megadede.com/cdn/media/peli/6/9/2/4/2-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] LEGO DC Super Heroes: La liga de la justicia. La invasión de Brainiac[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/psxx2y36ntnv/lego_dc_super_heroes_la_liga_de_la_justicia._la_invasion_de_brainiac__dnatharix_.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/5/4/7/5-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/6/5/4/7/5-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Mascotas[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/tsedftdlscqprcqt/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/6/1/4/3/4-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/6/1/4/3/4-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Tadeo Jones 2: El secreto del rey Midas[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/lmsefdamlrepmnkl/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/7/2/0/5/4-medium.jpg?v=3</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/7/2/0/5/4-medium.jpg?v=3</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Las aventuras de Tadeo Jones[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/roeknaptmetklose/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/4/6/3/1/2-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/4/6/3/1/2-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Superman viaja al sol[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/qnbnrmetoafdnber/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/2/8/1/9/7-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/2/8/1/9/7-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Fievel Va al Oeste[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ofdptlrqemkrebbo/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/4/2/3/3-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/4/2/3/3-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/5rmmse7o7of6/la_tierra_antes_del_tiempo_1988_.dvdrip.lat.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/5/6/0/3-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/5/6/0/3-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado II: Aventuras en el gran valle[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/9ejlyvi2x7mf/En.busca.del.valle.encantado.2.HDRip.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/8/0/7/9-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/8/0/7/9-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado XIV: Viaje de los valientes[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/h1vzb0zequfo</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn4.megadede.com/cdn/media/peli/6/6/0/1/3-medium.jpg?v=2</thumbnail>
+<fanart>https://cdn4.megadede.com/cdn/media/peli/6/6/0/1/3-medium.jpg?v=2</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado III: La fuente de la vida[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/wpw4glwrdsfc</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/9/7/3/1-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/9/7/3/1-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado V: La isla misteriosa[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/ynsaoppga8ul</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/9/8/2/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/9/8/2/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado IV: Viaje a la tierra de las brumas[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/57gd4rvr1z79</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn2.megadede.com/cdn/media/peli/9/8/2/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn2.megadede.com/cdn/media/peli/9/8/2/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] En busca del valle encantado IX: Travesía a los océanos[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/6xp5nkxccheg</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/1/2/7/9/1-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/1/2/7/9/1-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] El bosque de colores[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/qdtnemroksfrderr/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn3.megadede.com/cdn/media/peli/1/6/8/5/1-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn3.megadede.com/cdn/media/peli/1/6/8/5/1-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Batman Unlimited: Instinto animal
+[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/wr29e561micj/batman_unlimited_instinto_animal.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/6/0/5/4/7-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/6/0/5/4/7-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Ovejas y lobos
+[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/fup9iedidskk/Sheep.and.Wolves.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/6/7/1/4/0-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/6/7/1/4/0-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Jimmy Neutron: El niño inventor
+[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/8ix0du3e2jgc/jimmy_neutro_el_nino_inventor__www.cineflv.me_.avi.html</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn8.megadede.com/cdn/media/peli/5/8/4/1-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn8.megadede.com/cdn/media/peli/5/8/4/1-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Kung fu panda: Los secretos del pergamino
+[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/oqzl6vkv5mfr</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/6/7/8/3/6-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn1.megadede.com/cdn/media/peli/6/7/8/3/6-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Robinson, una aventura tropical
+[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/ffatccqblebcmdsq/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/6/6/0/5/2-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/6/6/0/5/2-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Colegas en el bosque 4: Una aventura de miedo
+[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/qnpbbqekonceoamc/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/6/5/6/1/8-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/6/5/6/1/8-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] Vecinos Invasores
+[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/affpsltnapddfacm/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn7.megadede.com/cdn/media/peli/2/7/8/4-medium.jpg?v=0</thumbnail>
+<fanart>https://cdn7.megadede.com/cdn/media/peli/2/7/8/4-medium.jpg?v=0</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] El bebé jefazo
+[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/dnbrtnlalopbasbo/</urlsolve>
+<info></info>
+<date></date>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/6/8/6/9/9-medium.jpg?v=1</thumbnail>
+<fanart>https://cdn6.megadede.com/cdn/media/peli/6/8/6/9/9-medium.jpg?v=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://pastebin.com/raw/hYZqSNgc</externallink>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red]IBRK[/COLOR] [/COLOR]</title>
+<urlsolve></urlsolve>
+<info></info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
